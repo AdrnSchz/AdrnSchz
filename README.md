@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrián Sánchez</h1>
-<h3 align="center">A passionate computer engineer student from Spain</h3>
+<h3 align="center">A passionate software engineer</h3>
 
 <p align="left">
 </p>
